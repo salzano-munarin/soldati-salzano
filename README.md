@@ -1,12 +1,15 @@
 # Archivio fotografico dei soldati e dei reduci del Comune di Salzano
 
 Questo repository contiene una raccolta di fotografie storiche dei soldati e dei reduci del nostro Comune, raccolte all’interno della cartella ControTutteLeGuerre.
+
 Contenuto del repository
 
     ControTutteLeGuerre/
+    
     Contiene tutte le immagini digitalizzate dei soldati e dei reduci.
 
     File soldati_reduci.md
+    
     contiene l’elenco dei nomi dei soldati iall'interno di ciascuna fotografia.
 
 Origine del materiale
@@ -17,7 +20,7 @@ Il materiale fotografico e l’intero lavoro di ricerca sono stati raccolti, ord
 
 Questa raccolta è resa disponibile per:
 
-    preservare e valorizzare la memoria dei cittadini coinvolti nei conflitti del passato;
+    **preservare e valorizzare la memoria dei cittadini coinvolti nei conflitti del passato;**
 
-    permettere consultazione, studio e condivisione del materiale da parte della comunità, delle scuole e dei ricercatori.
+    **permettere consultazione, studio e condivisione del materiale da parte della comunità, delle scuole e dei ricercatori.**
 
