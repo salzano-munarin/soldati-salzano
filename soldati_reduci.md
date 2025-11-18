@@ -16,7 +16,7 @@ Questo archivio raccoglie le immagini dei reduci e dei soldati che hanno combatt
 
 ---
 
-## Contro Tutte le Guerre
+## Contro_tutte_le_guerre_pdf
 
 Barban silvio, Baschiera, Billiato Bastiano, Billiato Gino, Billiato Iseo, Bolgan Giuseppe, Bortolato, Boschin Pietro, Bottacin Paolino, Casarin Angelo, 
 Casarin, Comelato, De Gobbi, Faggian Raimondo, Billiato Severino, Boato Giovanni, Liviero Luigi, Masiero Erminio, Masiero Giacomo, Masiero Gino,Masiero Luigi, Masiero Silvio, Masiero, Miele Angelo, Milan Luigi, Moretto Giovanni, Muffato Luigi, Muffato Luigi,Muffato Mario, Muffato, Niero Ivano, Paccagnella Innocente, Pastrello Vittorio, Pellizzon Aldo, Pigozzo Arturo, Pigozzo Giuseppe,Pigozzo Narciso, Pigozzo Primo, Polato, Saccarola Anselmo, Salviato Luigi, Semenzato Antio, Simioni Fortunato, Spolador Cesare,Spolaor, Stevanato Virginio, Preo Giulio, Masiero Giovanni, Francescato Silvio, Gambaro Carlo, Gambaro Ferdinando, Bottacin Giovanni, Favaro Giovanni, Bottacin Erminio, Zamengo Giovanni, Zorzetto
