@@ -20,7 +20,7 @@ Il materiale fotografico e l’intero lavoro di ricerca sono stati raccolti, ord
 
 Questa raccolta è resa disponibile per:
 
-    **preservare e valorizzare la memoria dei cittadini coinvolti nei conflitti del passato;**
+    preservare e valorizzare la memoria dei cittadini coinvolti nei conflitti del passato;
 
-    **permettere consultazione, studio e condivisione del materiale da parte della comunità, delle scuole e dei ricercatori.**
+    permettere consultazione, studio e condivisione del materiale da parte della comunità, delle scuole e dei ricercatori.
 
